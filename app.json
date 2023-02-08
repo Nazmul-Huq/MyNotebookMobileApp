@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "MyNotebook",
+    "slug": "MyNotebook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
